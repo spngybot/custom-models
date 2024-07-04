@@ -54,9 +54,13 @@
   
 ## How to Use the Models:
 
-1)
+1) Migi
+   This method offers a straightforward way to use custom models. However, you need to select the specific model you want to use before launching the game. Migi typically doesn't allow for in-game changes.
+   
 
-2)
+3) Cheat Software
+   This allows you to change the models in-game, not like Migi. If the cheat doesn't have one built in, you will need a lua script. However some cheat API's don't support them, and some are built in.
+   
 
 Download Individual Model Folders:
 
