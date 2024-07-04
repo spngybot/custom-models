@@ -52,23 +52,11 @@
 ![20240704104634_1](https://github.com/spngybot/custom-models/assets/96589377/031d3335-6d03-4a4f-b151-47ecf8344917)
 ![20240704104626_1](https://github.com/spngybot/custom-models/assets/96589377/bc1111a6-fc5a-4802-901a-ee44745c12a6)
   
-How to Use the Models:
+## How to Use the Models:
 
-Each model has its own directory containing relevant files (code, configuration etc.).
-Please refer to the individual model's README file for specific usage instructions and dependencies.
-Downloading Models:
+1)
 
-Since the models might contain larger files, downloading them directly from GitHub might not be ideal. Here are a couple of recommended ways to access the models:
-
-Clone the Repository:
-
-You can clone the entire repository to your local machine using Git. This will download all the models and their associated files. Here's the command:
-
-Bash
-git clone https://github.com/<your-username>/<repository-name>.git
-Olge koodi kasutamisel ettevaatlik.
-content_copy
-Replace <your-username> with your GitHub username and <repository-name> with the actual name of your repository.
+2)
 
 Download Individual Model Folders:
 
@@ -76,7 +64,7 @@ You can download specific model folders directly from the GitHub interface. Navi
 
 Contributing:
 
-We welcome contributions to this repository! If you have developed a custom model and would like to share it here, please consider creating a pull request.
+We welcome contributions to this repository! If you have a custom model and would like to share it here, please consider creating a pull request.
 
 License:
 
