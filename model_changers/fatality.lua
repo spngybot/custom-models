@@ -79,27 +79,13 @@ end
 -------------------------------------EDIT THAT ONLY------------------------------------------
 
 local path = {
-    {name = "T_artic", path = "models/player/custom_player/eminem/css/t_arctic.mdl",},
-    {name = "Lisa", path = "models/player/custom_player/kuristaja/cso2/lisa/lisa.mdl"},
-    {name = "Ballas1", path = "models/player/custom_player/eminem/gta_sa/ballas1.mdl"},
-    {name = "Tommi", path = "models/player/custom_player/nf/gta/tommi.mdl",},
-    {name = "neverlose", path = "models/player/custom_player/frnchise9812/neverlosee.mdl"},
-    {name = "gamesense", path = "models/player/custom_player/frnchise9812/gamesensee.mdl"},
-    {name = "eminem", path = "models/player/custom_player/eminem/gta_sa/wuzimu.mdl"},
-    {name = "BMYBAR", path = "models/player/custom_player/eminem/gta_sa/bmybar.mdl"},
-    {name = "Fam1", path = "models/player/custom_player/eminem/gta_sa/fam1.mdl"},
-    {name = "SOMYST", path = "models/player/custom_player/eminem/gta_sa/somyst.mdl"},
-    {name = "SWMOTR5 Duplicate", path = "models/player/custom_player/eminem/gta_sa/swmotr5.mdl"},
-    {name = "VWFYPRO", path = "models/player/custom_player/eminem/gta_sa/vwfypro.mdl"},
-    {name = "GTA Crip", path = "models/player/custom_player/z-piks.ru/gta_crip.mdl"},
+--- {name = "name here", path = "models/..."},
 }
 
 local menu = {
     en = gui.add_checkbox("uidmodel", "lua>tab b"),
     path = gui.add_combo("Player Model Changer", "lua>tab b", {
-        path[1].name, path[2].name, path[3].name, path[4].name, path[5].name, 
-        path[6].name, path[7].name, path[8].name, path[9].name, path[10].name,
-        path[11].name, path[12].name, path[13].name,
+        path[1].name, 
     }),
 
 }
