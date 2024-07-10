@@ -59,7 +59,7 @@
    
 
 3) Cheat Software:
-   This allows you to change the models in-game, not like Migi. If the cheat doesn't have one built in, you will need a lua script. However some cheat API's don't support them, and some are built in.
+   This allows you to change the models in-game, not like Migi. If the cheat doesn't have one built in, you will need a lua script. However some cheat API's don't support them.
    
 
 Download Individual Model Folders:
@@ -69,7 +69,3 @@ You can download specific model folders directly from the GitHub interface. Navi
 Contributing:
 
 We welcome contributions to this repository! If you have a custom model and would like to share it here, please consider creating a pull request.
-
-License:
-
-This repository is licensed under the License Name.  Be sure to replace "[License Name]" with the actual license used for your project (e.g. MIT License, Apache License).
